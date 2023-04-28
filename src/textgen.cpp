@@ -1,3 +1,5 @@
+//Copyright 2023 UNN-IASR
+
 #include "textgen.h"
 
 TextGenerator::TextGenerator(const std::string& theFilePath) noexcept {
